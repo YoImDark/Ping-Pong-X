@@ -15,6 +15,10 @@
 - **Ball Color Change**: The ball changes color as your score increases.
 - **Start Menu**: Navigate through a simple menu to start the game or view instructions.
 
-Enjoy and challenge yourself to get the highest score!
+## Latest Updates
+- **1. Speed increases each time it touches the Paddle**: The ball's speed now increases each time it touches the paddle. The ball can't go too fast with a max speed of 20 steps
+- **2. Minor bug fixes**: Fixed some minor errors on the global gameplay experience
+
+# Enjoy and challenge yourself to get the highest score!
 
 
