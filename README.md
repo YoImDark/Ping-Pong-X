@@ -1,6 +1,5 @@
 ![image](https://github.com/user-attachments/assets/f59b46e7-2331-4862-8b97-95c433a7c96b)
 
-
 # 🏓 Ping-Pong X
 
 **Ping-Pong X** is an advanced ping-pong game built using Scratch, featuring dynamic gameplay and fun visuals.
@@ -15,7 +14,9 @@
 - **Dynamic Speed**: The ball speeds up after each hit, making the game more challenging.
 - **Ball Color Change**: The ball changes color as your score increases.
 - **Start Menu**: Navigate through a simple menu to start the game or view instructions.
+![image](https://github.com/user-attachments/assets/5726c362-b614-4e9a-a451-1cafaa72ad3c)
+
 
 Enjoy and challenge yourself to get the highest score!
 
-[Play Now!](https://scratch.mit.edu/projects/1071637367/)
+# [Play Now!](https://scratch.mit.edu/projects/1071637367/)
