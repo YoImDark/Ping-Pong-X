@@ -15,7 +15,7 @@
 - **Ball Color Change**: The ball changes color as your score increases.
 - **Start Menu**: Navigate through a simple menu to start the game or view instructions.
 
-## Latest Updates
+## Latest Updates (Version 1.2.1)
 - **1. Speed increases each time it touches the Paddle**: The ball's speed now increases each time it touches the paddle. The ball can't go too fast with a max speed of 20 steps
 - **2. Minor bug fixes**: Fixed some minor errors on the global gameplay experience
 
