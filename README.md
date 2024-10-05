@@ -14,6 +14,7 @@
 - **Dynamic Speed**: The ball speeds up after each hit, making the game more challenging.
 - **Ball Color Change**: The ball changes color as your score increases.
 - **Start Menu**: Navigate through a simple menu to start the game or view instructions.
+
 ![image](https://github.com/user-attachments/assets/5726c362-b614-4e9a-a451-1cafaa72ad3c)
 
 
